@@ -22,8 +22,8 @@ fi
 
 set -e
 
-export DEVICE=dm3q
-export DEVICE_COMMON=sm8550-common
+export DEVICE=e3q
+export DEVICE_COMMON=sm8650-common
 export VENDOR=samsung
 export VENDOR_COMMON=${VENDOR}
 

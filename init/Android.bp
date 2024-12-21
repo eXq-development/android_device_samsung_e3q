@@ -1,11 +1,11 @@
 //
-// Copyright (C) 2023 The LineageOS Project
+// Copyright (C) 2024 The LineageOS Project
 // SPDX-License-Identifier: Apache-2.0
 //
 
 prebuilt_etc {
-    name: "init.dm3q.rc",
-    src: "init.dm3q.rc",
+    name: "init.e3q.rc",
+    src: "init.e3q.rc",
     sub_dir: "init/hw",
     vendor: true,
 }

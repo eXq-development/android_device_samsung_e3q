@@ -5,6 +5,6 @@
 //
 
 runtime_resource_overlay {
-    name: "WifiResTargetDm3q",
-    vendor: true,
+    name: "FrameworksResE3q",
+    device_specific: true,
 }
