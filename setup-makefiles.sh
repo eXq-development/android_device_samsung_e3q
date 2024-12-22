@@ -18,4 +18,4 @@ export DEVICE_COMMON=sm8650-common
 export VENDOR=samsung
 export VENDOR_COMMON=${VENDOR}
 
-"./../../${VENDOR_COMMON}/${DEVICE_COMMON}/setup-makefiles.sh" "$@"
+"device/samsung/sm8650-common/setup-makefiles.sh" "$@"

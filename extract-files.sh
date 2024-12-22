@@ -27,4 +27,4 @@ export DEVICE_COMMON=sm8650-common
 export VENDOR=samsung
 export VENDOR_COMMON=${VENDOR}
 
-"./../../${VENDOR_COMMON}/${DEVICE_COMMON}/extract-files.sh" "$@"
+"device/samsung/sm8650-common/extract-files.sh" "$@"
