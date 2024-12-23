@@ -22,6 +22,7 @@ gcc-pineapple.ko
 gcc-volcano.ko
 camcc-cliffs.ko
 camcc-pineapple.ko
+input_booster_lkm.ko
 gpucc-pineapple.ko
 videocc-pineapple.ko
 tcsrcc-pineapple.ko
